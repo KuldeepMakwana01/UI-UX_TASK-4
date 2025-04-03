@@ -1,1 +1,27 @@
 # UI-UX_TASK-4
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: KULDEEP M. MAKWANA
+
+**INTERN ID**: CT04WY65
+
+**DOMAIN**: UI/UX
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+**DESCRIPTION OF TASK**
+
+INSTRUCTIONS : CREATE A USER INTERFACE FOR AN AR/VR APPLICATION, FOCUSING ON INTUITIVE INTERACTIONS.
+
+WHAT I DO: I TACK RANDOM IDEA TO MAKE VR APP UI FROM CHATGPT. I SELECTED TRIP PLANER TYPE APP. HERE I SUBMIT BOTH VIDEO AND LINK OF IT'S PROTOTYPE. 
+
+## Video of Prototype
+
+https://github.com/user-attachments/assets/db9d7401-f75a-4655-8e64-48a2f755edd5
+
+## Prototype Link
+
+https://www.figma.com/proto/qQieXhJxnhfUDQkNZ5TqeQ/task-4?page-id=0%3A1&node-id=1-3381&viewport=156%2C-52%2C0.08&t=kkyPi2llXp1mAqJP-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2972
